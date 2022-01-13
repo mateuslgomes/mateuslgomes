@@ -1,7 +1,7 @@
 ### Olá! Eu sou Mateus 👋
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor backend.
+- 💻 Desenvolvedor Backend.
 - 🔭 Atualmente estou trabalhando me especializar.
 - 🎓 Estou aprendendo em cursos: Python, Django, MySQL, Git, Html, Css.
 - 📫 Contate-me no email: mateuslgomes021@gmail.com
