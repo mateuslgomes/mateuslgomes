@@ -22,7 +22,7 @@
   <img align="center" alt="Mateus-CSS" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">    
 </div>
   
-  ##
+  ---
 
 <div> 
   <a href="https://instagram.com/m_lopesgomes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
