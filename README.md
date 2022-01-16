@@ -3,7 +3,7 @@
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend.
 - 🔭 Atualmente estou evoluindo em meus estudos para me especializar em backend.
-- 🎓 Estou aprendendo em cursos: Python, Django, MySQL, Git, Html, Css.
+- 🎓 Estou aprendendo em cursos: Python, Django, MySQL, Html, Css.
 - 📫 Contate-me no email: mateuslgomes021@gmail.com
 - 💬 Pergunte-me sobre minha evolução.
 
