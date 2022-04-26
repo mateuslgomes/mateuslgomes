@@ -3,7 +3,7 @@
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend.
 - 🔭 Atualmente estou evoluindo em meus estudos para me especializar em backend.
-- 🎓 Estou aprendendo em cursos: Python, Django, MySQL, Html, Css.
+- 🎓 Estou aprendendo em cursos: Python, Java, Spring boot, Django, Flask, MySQL, Html e Css.
 - 📫 Contate-me no email: mateuslgomes021@gmail.com
 - 💬 Pergunte-me sobre minha evolução.
 
@@ -16,6 +16,8 @@
   
  <div style="display: inline_block"><br>
   <img align="center" alt="Mateus-Python" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+   <img align="center" alt="Mateus-Java" height="50" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
+</div>
 </div>
   
   ---
