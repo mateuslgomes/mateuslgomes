@@ -4,7 +4,7 @@
 - 💻 Desenvolvedor Backend.
 - 🔭 Atualmente estou evoluindo em meus estudos para me especializar no backend.
 - 🎓 Estou aprendendo em cursos: Python, Java, Spring boot, Django, Flask, SQL, Html e Css.
-- 📫 Contate-me no email: mateuslgomes021@gmail.com
+- 📫 Contate-me no email: mateuslgomes.dev@gmail.com
 - 💬 Pergunte-me sobre minha evolução.
 
 <div align="center">
