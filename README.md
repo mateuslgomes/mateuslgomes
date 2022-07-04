@@ -2,10 +2,9 @@
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend.
-- 🔭 Atualmente estou evoluindo em meus estudos para me especializar no backend.
-- 🎓 Estou aprendendo em cursos: Python, Java, Spring boot, Django, Flask, SQL, Html e Css.
+- 🔭 Atualmente estou evoluindo em meus estudos para me especializar em back-end com Java.
+- 🎓 Estou em formação pela equipe Alura.
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
-- 💬 Pergunte-me sobre minha evolução.
 
 <div align="center">
   <a href="https://github.com/mateuslgomes">
