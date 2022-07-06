@@ -2,10 +2,10 @@
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend Java.
-- 👨‍💻 Me formando em Java, Spring Boot, e SQL pela escola de tecnologia Alura.
-- 🔭 Atualmente estou evoluindo em meus estudos para me especializar em back-end com Java.
-- 🎓 Estou em formação pela equipe Alura.
+- 👨‍💻 Me formando em Java, Spring Boot, SQL e inglês, atráves da escola de tecnologia Alura.
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
+
+- 🔭 “A genialidade é 1% inspiração e 99% transpiração.” – Thomas Edson
 
 <div align="center">
   <a href="https://github.com/mateuslgomes">
