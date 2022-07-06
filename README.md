@@ -1,7 +1,8 @@
 ### Olá! Eu sou Mateus 👋
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Backend.
+- 💻 Desenvolvedor Backend Java.
+- 👨‍💻 Me formando em Java, Spring Boot, e SQL pela escola de tecnologia Alura.
 - 🔭 Atualmente estou evoluindo em meus estudos para me especializar em back-end com Java.
 - 🎓 Estou em formação pela equipe Alura.
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
