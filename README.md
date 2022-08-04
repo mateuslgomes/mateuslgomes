@@ -5,7 +5,7 @@
 - 👨‍💻 Me formando em Java, Spring Boot, SQL e inglês, atráves da escola de tecnologia Alura.
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
 
-- 🔭 “A genialidade é 1% inspiração e 99% transpiração.” – Thomas Edson
+- 🔭 “Eu não tenho sonhos, eu tenho objetivos” – Harvey Specter
 
 <div align="center">
   <a href="https://github.com/mateuslgomes">
