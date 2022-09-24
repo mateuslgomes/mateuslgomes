@@ -2,7 +2,7 @@
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend Java.
-- 👨‍💻 Me formando em Java, Spring Boot, SQL e inglês, atráves da escola de tecnologia Alura.
+- 👨‍💻 Me especializando em backend na Alura 
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
 
 - 🔭 “Eu não tenho sonhos, eu tenho objetivos” – Harvey Specter
