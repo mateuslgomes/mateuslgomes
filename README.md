@@ -1,11 +1,11 @@
 ### Olá👋! Me chamo Mateus, Bem vindo(@) ao meu GitHub!💻
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Backend Java.
-- 👨‍💻 Me especializando em backend na Alura 
+- 💻 Desenvolvedor Backend.
+- 👨‍💻 Me especializando em backend na escola de tecnologia Alura 
 - 📫 Contate-me no email: mateuslgomes.dev@gmail.com
 
-- 🔭 “Eu não tenho sonhos, eu tenho objetivos” – Harvey Specter
+- 🔭 "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado." - Roberto Shinyashiki
 
 <div align="center">
   <a href="https://github.com/mateuslgomes">
