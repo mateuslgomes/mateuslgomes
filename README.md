@@ -1,4 +1,4 @@
-### Olá👋! Me chamo Mateus, Bem vind(@) ao meu GitHub!💻
+### Olá👋! Me chamo Mateus 💻
 
 - 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
 - 💻 Desenvolvedor Backend.
