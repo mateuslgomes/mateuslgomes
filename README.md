@@ -1,11 +1,3 @@
-
-### Olá bem-vind@ ao meu portfólio 👋💻
-<div> 
-  <a href="https://www.linkedin.com/in/mateuslgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
-
-#
-
 # Olá, eu sou o Mateus!
 
 - 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas no ensino superior.
@@ -14,6 +6,9 @@
 - 📫 Você pode entrar em contato comigo pelo email mateuslgomes.dev@gmail.com.
 - 🔭 "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado." - Roberto Shinyashiki
 
+<div> 
+  <a href="https://www.linkedin.com/in/mateuslgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 <br>
 
