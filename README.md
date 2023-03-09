@@ -6,12 +6,14 @@
 
 #
 
-- 🙋‍♂️ Olá me chamos Mateus, tenho 20 anos.
-- 👨‍🎓 Cursando o ensino superior: Análise e Desenvolvimento de Sistemas.
-- 💻 Desenvolvedor Backend.
-- 👨‍💻 Me especializando em backend na escola de tecnologia Alura 
-- 📫 Contate-me no email: mateuslgomes.dev@gmail.com
+# Olá, eu sou o Mateus!
+
+- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas no ensino superior.
+- 💻 Desenvolvedor Backend especializado na linguagem [colocar aqui a linguagem de especialização].
+- 👨‍💻 Me especializando em backend na escola de tecnologia Alura.
+- 📫 Você pode entrar em contato comigo pelo email mateuslgomes.dev@gmail.com.
 - 🔭 "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado." - Roberto Shinyashiki
+
 
 <br>
 
