@@ -20,29 +20,29 @@
 
 <h3>Frameworks and Libraries</h3>
 <p>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes>
     <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=black">
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=black">
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
   </a>
 </p>
 
 <h3>Databases</h3>
 <p>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=black">
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black">
   </a>
-  <a href="https://github.com/seu-usuario">
+  <a href="https://github.com/mateuslgomes">
     <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black">
   </a>
 </p>
@@ -123,6 +123,6 @@
 </a>
 
 <a href="mailto:mateuslgomes.dev@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=gmail" alt="youtube"/>
+ <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=gmail" alt="gmail"/>
 </a>
 
