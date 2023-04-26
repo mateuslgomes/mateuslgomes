@@ -1,52 +1,100 @@
-# Olá, eu sou o Mateus!
+<h1 align="left">Hi 👋, I'm Mateus Lopes</h1>
 
-- 👨‍🎓 Cursando Análise e Desenvolvimento de Sistemas no ensino superior.
-- 💻 Desenvolvedor Backend especializado na linguagem [colocar aqui a linguagem de especialização].
-- 👨‍💻 Me especializando em backend na escola de tecnologia Alura.
-- 📫 Você pode entrar em contato comigo pelo email mateuslgomes.dev@gmail.com.
-- 🔭 "Tudo o que um sonho precisa para ser realizado é alguém que acredite que ele possa ser realizado." - Roberto Shinyashiki
+<ul>
+  <li>🎓 Studying Systems Analysis and Development.</li>
+  <li>🔥 Junior Back-End Developer.</li>
+  <li>💻 Specializing in back-end development at Alura technology school.</li>
+  <li>📫 You can contact me via email at mateuslgomes.dev@gmail.com.</li>
+  <li>🔭 "All a dream needs to be fulfilled is someone who believes it can be fulfilled." - Roberto Shinyashiki</li>
+</ul>
 
-<div> 
-  <a href="https://www.linkedin.com/in/mateuslgomes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5? style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+<h2>🛠 &nbsp;Tech Stack</h2>
+
+<h3>Programming Languages</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=java,python,javascript,&theme=dark)](https://skillicons.dev)
+
+
+
+<h3>Frameworks and Libraries</h3>
+<p>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-Spring-6DB33F?style=flat-square&logo=spring&logoColor=black">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-Flask-000000?style=flat-square&logo=flask&logoColor=white">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-Django-092E20?style=flat-square&logo=django&logoColor=black">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black">
+  </a>
+</p>
+
+<h3>Databases</h3>
+<p>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=black">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=black">
+  </a>
+  <a href="https://github.com/seu-usuario">
+    <img src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=black">
+  </a>
+</p>
+
+<h3>Development Tools</h3>
+
+<p>
+  <a href="https://code.visualstudio.com/">
+    <img src="https://img.shields.io/badge/-VSCode-blue?style=flat&logo=visual-studio-code&logoColor=black">
+  </a>
+  <a href="https://www.jetbrains.com/idea/">
+    <img src="https://img.shields.io/badge/-IntelliJ%20IDEA-blue?style=flat&logo=intellij-idea&logoColor=black">
+  </a>
+  <a href="https://www.jetbrains.com/pycharm/">
+    <img src="https://img.shields.io/badge/-PyCharm-blue?style=flat&logo=pycharm&logoColor=black">
+  </a>
+  <a href="https://www.eclipse.org/ide/">
+    <img src="https://img.shields.io/badge/-Eclipse-blue?style=flat&logo=eclipse-ide&logoColor=black">
+  </a>
+</p>
+
+
+<h3>Testing Frameworks</h3>
+<p>
+  <a href="https://junit.org/junit5/">
+    <img src="https://img.shields.io/badge/-JUnit-blue?style=flat&logo=junit5&logoColor=black">
+  </a>
+  <a href="https://site.mockito.org/">
+    <img src="https://img.shields.io/badge/-Mockito-blue?style=flat&logo=mockito&logoColor=black">
+  </a>
+  <a href="https://www.selenium.dev/">
+    <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=black">
+  </a>
+</p>
 
 <br>
 
-<div align="center">
-  <a href="https://github.com/mateuslgomes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuslgomes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslgomes&layout=compact&langs_count=7&theme=dark"/>
-</div> <br>
+## ⚙️ &nbsp;GitHub Analytics
+
+<div style="display: inline_block"><br>
+    <a href="https://github.com/mateuslgomes">
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuslgomes&show_icons=true&theme=radical"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslgomes&layout=compact&theme=radical"/>
+</div>
+
+<br>
   
-### 📌 Conhecimentos
-<br>
-<div style="display: inline_block">
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
-    <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
-    <br><br>
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white">
-    <img src="https://img.shields.io/badge/Pandas-02569B?style=for-the-badge&logo=pandas&logoColor=white">
-    <img alt="selenium" src="https://img.shields.io/badge/selenium-grem?style=for-the-badge&logo=selenium&logoColor=white">
-    <br><br>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=whitez" />
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
-    <br><br>
-    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">    
-    <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white/">
-    <br><br>
-    <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-    <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white">      
-    <img src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white">
-    <br><br>
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">   
-</div>
+## Contact
 
+<a href="https://linkedin.com/in/mateuslgomes" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
 
+<a href="mailto:mateuslgomes.dev@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=gmail" alt="youtube"/>
+</a>
 
- 
