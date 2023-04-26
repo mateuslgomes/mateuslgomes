@@ -1,5 +1,7 @@
 <h1 align="left">Hi 👋, I'm Mateus Lopes</h1>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslgomes&color=yellow" alt="Profile views" /> </p> 
+
 <ul>
   <li>🎓 Studying Systems Analysis and Development.</li>
   <li>🔥 Junior Back-End Developer.</li>
