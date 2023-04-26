@@ -64,6 +64,32 @@
   </a>
 </p>
 
+<h3>DevOps</h3>
+<p>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white">
+  </a>
+  <a href="https://github.com/">
+    <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white">
+  </a>
+  <a href="https://git-scm.com/">
+    <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+  </a>
+  <a href="https://maven.apache.org/">
+    <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white">
+  </a>
+</p>
+
+<h3>API development</h3>
+
+<p>
+  <a href="https://insomnia.rest/">
+    <img src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white">
+  </a>
+  <a href="https://www.postman.com/">
+    <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white">
+  </a>
+</p>
 
 <h3>Testing Frameworks</h3>
 <p>
