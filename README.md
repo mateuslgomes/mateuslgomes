@@ -96,9 +96,6 @@
   <a href="https://junit.org/junit5/">
     <img src="https://img.shields.io/badge/-JUnit-blue?style=flat&logo=junit5&logoColor=black">
   </a>
-  <a href="https://site.mockito.org/">
-    <img src="https://img.shields.io/badge/-Mockito-blue?style=flat&logo=mockito&logoColor=black">
-  </a>
   <a href="https://www.selenium.dev/">
     <img src="https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=black">
   </a>
