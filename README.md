@@ -81,8 +81,12 @@
   <a href="https://trello.com">
     <img src="https://img.shields.io/badge/-Kanban-blue?style=flat-square&logo=react&logoColor=black">
   </a>
-
-                                                                                                             
+  <a href="https://www.heroku.com/">
+    <img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white">
+  </a>
+  <a href="https://www.docker.com/">
+    <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+  </a>                                                                                                      
 </p>
 
 <h3>API development</h3>
