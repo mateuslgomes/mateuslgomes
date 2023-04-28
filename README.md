@@ -78,6 +78,7 @@
   <a href="https://maven.apache.org/">
     <img src="https://img.shields.io/badge/-Maven-C71A36?style=flat-square&logo=apache-maven&logoColor=white">
   </a>
+  <br>
   <a href="https://trello.com">
     <img src="https://img.shields.io/badge/-Kanban-blue?style=flat-square&logo=react&logoColor=black">
   </a>
