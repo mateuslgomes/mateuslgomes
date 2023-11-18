@@ -1,13 +1,14 @@
-<h1 align="left">Hi 👋, I'm Mateus Lopes</h1>
+<h1 align="left">Hi 👋, Welcome To My GitHub</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslgomes&color=yellow" alt="Profile views" /></p> 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslgomes&color=yellow" alt="Profile views" /> </p> 
-
+## 🧍‍♂️ About me
 <ul>
-  <li>🎓 Studying Systems Analysis and Development.</li>
-  <li>🔥 Junior Back-End Developer.</li>
-  <li>💻 Specializing in back-end development at Alura technology school.</li>
-  <li>📫 You can contact me via email at mateuslgomes.dev@gmail.com.</li>
-  <li>🔭 "All a dream needs to be fulfilled is someone who believes it can be fulfilled." - Roberto Shinyashiki</li>
+  <li> 👨‍💻 My name is Mateus and I am 21 years old. 🙋‍♂️ </li>
+  <li> 🇧🇷 I am from Brazil. 🙋‍♂️ </li>
+  <li> ❤️ I am a lover of technology and programming 💻 </li>
+  <li> 👨‍💻 I am a {BACKEND} - developer. 🔙 </li>
+  <li> 🏆 “Persistence is the path to success.” - Charles Chaplin. </li>
+  <li> 📫 You can contact me via email at de.mateuslgomes@gmail.com. </li>
 </ul>
 
 <h2>🛠 &nbsp;Tech Stack</h2>
@@ -122,14 +123,3 @@
 </div>
 
 <br>
-  
-## Contact
-
-<a href="https://linkedin.com/in/mateuslgomes" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-
-<a href="mailto:mateuslgomes.dev@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-mateuslgomes-05122A?style=flat&logo=gmail" alt="gmail"/>
-</a>
-
