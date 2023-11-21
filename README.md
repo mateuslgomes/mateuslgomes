@@ -33,36 +33,22 @@
 
 ---
 
-### 🧑‍💻 Languages ​​and Frameworks
+### 🧑‍💻 Languages ​​and Frameworks ✨ 
 
-![Backend](https://skillicons.dev/icons?i=java,python,spring,flask,django)
+![Backend](https://skillicons.dev/icons?i=java,python,spring,flask,django,html,css,bootstrap,angular,javascript,typescript)
+---
 
-![FrontendFrameworks](https://skillicons.dev/icons?i=html,css,bootstrap,angular,javascript,typescript)
+### 🛠️ Tools, Database and ORMs🛢️
+
+![FerramentasBancosOrms](https://skillicons.dev/icons?i=idea,postman,vscode,eclipse,maven,gradle,mysql,postgres,hibernate)
 
 ---
 
-### 🛠 Tools
+### 🚀 DevOps, Repositories and Others 🧰
 
-![Ferramentas](https://skillicons.dev/icons?i=idea,postman,vscode,eclipse,maven,gradle)
-
----
-
-### Database and ORMs
-
-![BancosOrms](https://skillicons.dev/icons?i=mysql,postgres,hibernate)
+![DevopsRepo](https://skillicons.dev/icons?i=git,docker,github,heroku,linux,rabbitmq)
 
 ---
-
-### DevOps and Repositories
-
-![DevopsRepo](https://skillicons.dev/icons?i=git,docker,github,heroku)
-
----
-
-### 🧰 Others
-
-![Outros](https://skillicons.dev/icons?i=linux,rabbitmq,pandas)
-
 
 ## ⚙️ &nbsp;GitHub Analytics
   
