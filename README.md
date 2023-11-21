@@ -65,11 +65,10 @@
 
 
 ## ⚙️ &nbsp;GitHub Analytics
+  
+| ![Estatísticas](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mateuslgomes&theme=nord_dark) | ![Repositórios por Linguagem](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mateuslgomes&hide=Html&theme=nord_dark) | ![Linguagem com Maior Número de Commits](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mateuslgomes&theme=nord_dark) |
+| :-: | :-: | :-: |
 
-<div style="display: inline_block"><br>
-    <a href="https://github.com/mateuslgomes">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=mateuslgomes&show_icons=true&theme=radical"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mateuslgomes&layout=compact&theme=radical"/>
-</div>
+| ![Detalhes do Perfil](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mateuslgomes&theme=nord_dark) | ![Estatísticas de Streak](https://github-readme-streak-stats.herokuapp.com/?user=mateuslgomes&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=2D3742&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
-<br>
