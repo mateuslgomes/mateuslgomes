@@ -18,7 +18,6 @@
   </a>
 </div>
 
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mateuslgomes&color=yellow" alt="Profile views" /></p> 
 
 ### 🧍‍♂️ About me
